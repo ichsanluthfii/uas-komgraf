@@ -1,12 +1,10 @@
-# UAS_KompGrafik_Fahri
+# UAS Komputer Grafik 
 
-# UAS Komputer Grafik 1
+https://github.com/ichsanluthfii/uas-komgraf
 
-https://zumitrim.pythonanywhere.com/
+Nama  : Ichsan Luthfi Maulana
 
-Nama  : Fahri Azis Akili
-
-NIM   : 201011400131
+NIM   : 201011401878
 
 Kelas : 06TPLE007
 
@@ -18,16 +16,13 @@ Flask=2.3.2
 
 ## Cara Kerja
 
-Buka website https://zumitrim.pythonanywhere.com/ kemudian upload gambar yang diinginkan
-![image](https://github.com/zumitrim/uas-komgraf1/assets/53569950/730ab86c-1292-48ba-b622-f5453d4d584a)
+Buka website https://github.com/ichsanluthfii/uas-komgraf kemudian upload gambar yang diinginkan
+![image](https://github.com/ichsanluthfii/uas-komgraf/blob/main/gambar/1.JPG)
 
 
 Setelah gambar diupload, akan langsung ditampilkan dan muncul form Size dan Position crop. Isi sesuai keinginan, dan klik "Crop"
-![image](https://github.com/zumitrim/uas-komgraf1/assets/53569950/3a27f596-a260-41ee-9c4f-1068e3084136)
+![image](https://github.com/ichsanluthfii/uas-komgraf/blob/main/gambar/2.JPG)
 
-
-Jika sudah, akan ditampilkan hasil crop gambarnya.
-Klik "Download Cropped Image" untuk mendownload gambar yang telah dicrop. Klik "Reset" untuk kembali ke halaman utama.
 
 Note: biasanya gambar yang dicrop akan sedikit membutuhkan waktu untuk menampilkannya tergantung size nya, jadi bersabar sedikit ya:)
-![image](https://github.com/zumitrim/uas-komgraf1/assets/53569950/16b436df-f59e-4913-805b-4de7991c9626)
+![image](https://github.com/ichsanluthfii/uas-komgraf/blob/main/gambar/3.JPG)
